@@ -1,0 +1,11 @@
+Mles   - Nom Prenom   - poste occupe - CNSS        - Date Embauche - Date Naissance
+service : magasin general
+73 077 - M.asry ahmed - conrtemaitre - 161 961 612 - 13/17-1995 - 30/06/1995
+74 697 - M.akhrissi jamal - contremaitre - 136 686 163 01/002/2012 17/03/1983
+
+service : carriere 
+
+74 575 - M.bourri ali - mineur - 158 510 027 - 01/03/1993 - 17/12/1956
+74 591 M.zidani mly mustapha - contremaitre - 111 985 556 - 13/10/1998 - 21/03/1973
+
+
